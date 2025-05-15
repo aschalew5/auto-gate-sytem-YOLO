@@ -92,7 +92,8 @@ Once you have confirmed that your GPU is compatible, follow these steps to gener
 2. Configure the Installation Command:
     - OS: Select your operating system (e.g., Linux, Windows, macOS).
     - Package: Choose `Pip` as the package manager.
-    - Language: Set it to `Python`.
+    - Langua
+    +ge: Set it to `Python`.
     - Compute Platform: Select the CUDA version that matches your system (e.g., CUDA 11.8).
   
     The website will automatically generate the appropriate installation command.
